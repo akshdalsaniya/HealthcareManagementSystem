@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "Kym157jm0zM=",
+  "dgSpecHash": "VV6h3nw2quw=",
   "success": true,
   "projectFilePath": "C:\\Users\\Aksh Dalsaniya\\HealthcareManagementSystem\\HealthcareManagementSystem.csproj",
   "expectedPackageFiles": [
@@ -155,11 +155,7 @@
     "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\system.threading.tasks\\4.3.0\\system.threading.tasks.4.3.0.nupkg.sha512",
     "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\system.windows.extensions\\6.0.0\\system.windows.extensions.6.0.0.nupkg.sha512",
     "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\twilio\\7.12.1\\twilio.7.12.1.nupkg.sha512",
-    "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512",
-    "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\microsoft.netcore.app.ref\\9.0.11\\microsoft.netcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\9.0.11\\microsoft.windowsdesktop.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\9.0.11\\microsoft.aspnetcore.app.ref.9.0.11.nupkg.sha512",
-    "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\9.0.11\\microsoft.netcore.app.host.win-x64.9.0.11.nupkg.sha512"
+    "C:\\Users\\Aksh Dalsaniya\\.nuget\\packages\\zstdsharp.port\\0.7.3\\zstdsharp.port.0.7.3.nupkg.sha512"
   ],
   "logs": []
 }
